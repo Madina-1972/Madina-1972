@@ -1,1 +1,1 @@
-document.getElementById("Sarlavha").innerHTML = "";
+document.getElementById("Sarlavha").innerHTML = "O‘ZBEKISTON RESPUBLIKASI PREZIDENTINING QARORI";
